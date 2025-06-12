@@ -1,8 +1,13 @@
 Company Name : CODETECH IT SOLUTIONS
+
 Name : Savaliya Raj Navalbhai
+
 Intern ID : CT04DM157
+
 Domain : Cyber Security & Ethical Hacking
+
 Duration : 4 weeks
+
 Mentor : Neela Santosh
 
 
