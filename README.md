@@ -1,3 +1,11 @@
+Company Name : CODETECH IT SOLUTIONS
+Name : Savaliya Raj Navalbhai
+Intern ID : CT04DM157
+Domain : Cyber Security & Ethical Hacking
+Duration : 4 weeks
+Mentor : Neela Santosh
+
+
 # File_Intigrity_check
 to check file update or change in a folder via a hash value
 # 🔐 File Integrity Checker (Simple GUI Tool)
